@@ -1,0 +1,11 @@
+{
+  "name": "terraform-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bennymeade/terraform-sandbox.git",
+  "author": "bennymeade <brendan_meade@yahoo.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "terraform": "^1.22.1"
+  }
+}
